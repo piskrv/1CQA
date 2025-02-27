@@ -1,0 +1,2 @@
+# 1CQA
+Automatic
